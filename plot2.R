@@ -1,4 +1,5 @@
-
+#Code Assumes that data from the following url is unzipped and in the working directory set in the directory variable below
+# url:  https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
 #Read in Data
   directory="C:\\Users\\BRose\\Documents\\My Dropbox\\Coursera Data Science Specialization\\Exploratory Data Analysis\\Peer Assessment 1"
@@ -29,5 +30,3 @@ plot(y=as.numeric(HPCData$Global_active_power)
 dev.off()
 
   
-  
-  as.zoo(HPCData$DataTime)

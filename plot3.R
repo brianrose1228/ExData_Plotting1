@@ -1,4 +1,5 @@
-
+#Code Assumes that data from the following url is unzipped and in the working directory set in the directory variable below
+# url:  https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
 #Read in Data
   directory="C:\\Users\\F3NiXR0ZE\\Dropbox\\Coursera Data Science Specialization\\Exploratory Data Analysis\\Peer Assessment 1"
